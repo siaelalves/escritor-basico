@@ -1,0 +1,54 @@
+C:\Users\user\AppData\Local\Temporary Projects\Writer\bin\Debug\Writer.exe
+C:\Users\user\AppData\Local\Temporary Projects\Writer\bin\Debug\Writer.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\Writer.WRT.resources
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\Writer.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\Writer.exe
+C:\Users\user\AppData\Local\Temporary Projects\Writer\obj\x86\Debug\Writer.pdb
+D:\Projetos\C#\Writer\obj\x86\Debug\Writer.exe
+D:\Projetos\C#\Writer\obj\x86\Debug\Writer.pdb
+D:\Projetos\C#\Writer\bin\Debug\Writer.exe
+D:\Projetos\C#\Writer\bin\Debug\Writer.pdb
+D:\Projetos\C#\Writer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Writer\obj\x86\Debug\Writer.WRT.resources
+D:\Projetos\C#\Writer\obj\x86\Debug\Writer.Properties.Resources.resources
+D:\Projetos\C#\Writer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Writer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Writer.WRT.resources
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Writer.ABT.resources
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Legal.dll
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Legal.pdb
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Escritor.exe
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Escritor.pdb
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.Properties.Resources.resources
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.exe
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.pdb
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Escritor.exe.manifest
+D:\Projetos\C#\Ativos\Writer\bin\Debug\Escritor.application
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.TrustInfo.xml
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.exe.manifest
+D:\Projetos\C#\Ativos\Writer\obj\x86\Debug\Escritor.application
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Escritor.exe.manifest
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Escritor.application
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Escritor.exe
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Escritor.pdb
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Legal.dll
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\Legal.pdb
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Writer.ABT.resources
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Writer.WRT.resources
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.Properties.Resources.resources
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.TrustInfo.xml
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.exe.manifest
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.application
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.exe
+D:\Projetos\C#\Concluídos\Writer\obj\x86\Debug\Escritor.pdb
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\sec.dll
+D:\Projetos\C#\Concluídos\Writer\bin\Debug\sec.pdb
